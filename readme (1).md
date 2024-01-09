@@ -6,19 +6,26 @@ Max Muster
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. Was wäre ein geeignetes Projekt würd diese LP3?
+1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig.
+   In Modul 164 habe ich eine Note von 2,5 erhalten, ich enpfand es sehr schwierig. Aber bei den Modulen 319 und 431 jeweils eine gute Note von 5 erreicht, wobei diese beiden        Module besonders      wichtig für meinen Studiengang sind.
+   
+3. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+   Wir habe Mehrheitlich an unserem Projekt gearbeitet und ich habe gelernt das man viel Zeit für ein Programm braucht und konzentriert seon muss damit nichts falsch geht.
+   
+5. Was wäre ein geeignetes Projekt würd diese LP3?
+Ich werde etwas neues asprobieren und werde ein klienes spiel programmieren. ich denk so ein snake spiel.
+   
 
 ## 9.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich während diese 4 Stunden alle meine Projekte durchgeschaut und habe paar interessante gefunde und habe mich entschieden mal etwas anderes zu programmieren und will ein Snake spiel programmieren. Während ich alle meine Projekte durchgeschaut habe, habe ich gemerkt das ich relativ viel gelernt habe und das ich viel mehr kann als in LP2 und bin Motiviert weiter zu machen.
 
 ## 16.1 und 23.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Es soll ein quadrat abgebildet werden in dem sich die Schalnge frei bewegen kann.
+- [ ] Die SChalnge soll sich in mindestens eine Richtung bewegen können.
+- [ ] Die Schlange soll sich frei in jede Richtung bewegen können.
+- [ ] Es sollen Äpfel erscheinen.
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
@@ -32,10 +39,10 @@ Max Muster
 
 ## 23.1.2024
 
-- [ ] Fünftes AP
-- [ ] ...
-
-- [ ] Achtes AP
+- [ ] Die Schalnge soll fähig sein Äpfel essen zu können.
+- [ ] Jedes mal wenn die Schlange ein A isst soll er etwas länger werden.
+- [ ] Und jedes mal wenn die Schlange ein Apfel isst soll nach paar SEkunden wider ein Apfel erscheinen.
+- [ ] Punkte soll am schluss vom spiel gezeigt werden.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
